@@ -8,7 +8,7 @@ header:
 I'm a budding data scientist based in Singapore.
 
 
-I am currently working as a Senior Analyst at [Datarama](https://datarama.com), a start-up that uses machine learning and artificial intelligence to streamline due diligence processes. I lead due diligence projects mainly in Indonesia – my country of birth – but also neighboring Southeast Asian countries. In addition, I also contribute to the development of Datarama's AI-powered due diligence platform.
+I am currently working as a Senior Analyst at [Datarama](https://datarama.com), a start-up that uses machine learning and artificial intelligence to streamline due diligence processes. I lead due diligence projects mainly in Indonesia – my country of birth – and also neighboring Southeast Asian countries. In addition, I also contribute to the development of Datarama's AI-powered due diligence platform.
 
 
 I'm currently pursuing Georgia Institute of Technology's [Master in Analytics](http://www.analytics.gatech.edu/). This awesome program has allowed me to get my hands dirty in the latest concepts of data science. I post some of the things I learn in this blog.
