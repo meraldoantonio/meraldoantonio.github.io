@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Meraldo Antonio"
   avatar           : "images/meraldo_photo.jpg"
-  bio              : "Data scientist"
+  bio              : "I'm a data scientist"
   location         : "Singapore"
   email            :
   links:
@@ -153,9 +153,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/meraldo/"
+
 
 
 # Reading Files
