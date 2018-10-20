@@ -18,3 +18,6 @@ Due to my diverse interests, I have a rather unusual career path. Before being a
 
 
 I am also a linguist. I speak fluent Indonesian, English, Chinese, French, Spanish and also some German, Malay and Portuguese.
+
+
+Feel free to download a [pdf copy of my résumé]({{ site.url }}/pdf/Resume.pdf), which contains further details about my background.
