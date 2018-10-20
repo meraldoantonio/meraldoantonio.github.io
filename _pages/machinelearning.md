@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /blog/
-title: "Blog posts"
+title: "Machine Learning"
 author_profile: true
 header:
   image: "/images/singapore_banner.jpg"
