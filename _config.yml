@@ -23,7 +23,7 @@ description              : "Meraldo's Data Science Portfolio."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "images/singapore_banner.jpg"
+teaser                   : #"images/singapore_banner.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Meraldo Antonio"
   avatar           : "images/meraldo_photo.jpg"
-  bio              : "I'm a data scientist"
+  bio              : "Data scientist | Linguist | Due diligence analyst"
   location         : "Singapore"
   email            :
   links:
