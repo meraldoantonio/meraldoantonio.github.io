@@ -16,13 +16,6 @@ header:
 {% endfor %}
 
 -->
-Tags:
-{% assign sorted_tags = (site.tags | sort:0) %}
-
-{% for tag in sorted_tags %} {% assign t = tag | first %} {% assign posts = tag | last %}
-{{ t }} ({{ posts.size }})
-{% endfor %}
-
 
 Below is the list of blog posts I've written, separated by categories.
 {% for category in site.categories %}
