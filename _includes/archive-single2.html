@@ -37,6 +37,7 @@
         <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d %B %Y " }}</time>&emsp;
       {% endif %}
     </p>
+    {% if post.tags %}<p itemprop="description">{{ post.tags | markdownify | strip_html }}</p>{% endif %}
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
   </article>
 </div>
