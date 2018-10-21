@@ -5,6 +5,8 @@ header:
   image: "images/singapore_banner.jpg"
 ---
 
+Below is the list of blog posts I've written, separated by tags.
+
 {% include group-by-array collection=site.posts field="tags" %}
 
 {% for tag in group_names %}
