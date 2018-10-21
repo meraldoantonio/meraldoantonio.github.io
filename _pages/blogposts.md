@@ -4,6 +4,7 @@ permalink: /blogposts/
 header:
   image: "images/singapore_banner.jpg"
 ---
+
 <!---
 {% include group-by-array collection=site.posts field="tags" %}
 {% for category in group_names %}
@@ -21,7 +22,7 @@ Tags:
 {% for tag in sorted_tags %} {% assign t = tag | first %} {% assign posts = tag | last %}
 {{ t }} ({{ posts.size }})
 {% endfor %}
-{% for tag in sorted_tags %} {% assign t = tag | first %} {% assign posts = tag | last %}
+
 
 Below is the list of blog posts I've written, separated by categories.
 {% for category in site.categories %}
