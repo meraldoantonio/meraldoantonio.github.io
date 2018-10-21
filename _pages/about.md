@@ -1,7 +1,7 @@
 ---
 title: "About"
 permalink: /about/
-layout: splash
+layout: single
 header:
   image: "images/singapore_banner.jpg"
 ---
