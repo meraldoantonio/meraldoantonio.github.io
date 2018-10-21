@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Meraldo"
 permalink: /about/
 layout: single
 excerpt: "Who am I?"
