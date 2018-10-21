@@ -1,7 +1,7 @@
 ---
 title: "Blog posts"
 permalink: /blogposts/
-layout: categories
+layout: tags
 excerpt: "Who am I?"
 header:
   overlay_image: "images/singapore_banner.jpg"
