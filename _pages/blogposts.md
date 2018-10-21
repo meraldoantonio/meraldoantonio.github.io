@@ -9,10 +9,25 @@ Below is the list of blog posts I've written, separated by categories.
 
 {% include group-by-array collection=site.posts field="tags" %}
 
+<!---
 {% for category in group_names %}
   {% assign posts = group_items[forloop.index0] %}
   <h2 id="{{ category | slugify }}" class="archive__subtitle">{{ tag }}</h2>
   {% for post in posts %}
     {% include archive-single.html %}
   {% endfor %}
+{% endfor %}
+
+-->
+
+{% for category in site.categories %}
+  <li><a name="{{ category | first }}">{{ category | first }}</a>
+    <ul>
+    {% for posts in category %}
+      {% for post in posts %}
+        {% include archive-single.html %}
+      {% endfor %}
+    {% endfor %}
+    </ul>
+  </li>
 {% endfor %}
