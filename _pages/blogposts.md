@@ -4,9 +4,9 @@ permalink: /blogposts/
 header:
   image: "images/singapore_banner.jpg"
 ---
-
-<!---
 {% include group-by-array collection=site.posts field="tags" %}
+<!---
+
 {% for category in group_names %}
   {% assign posts = group_items[forloop.index0] %}
   <h2 id="{{ category | slugify }}" class="archive__subtitle">{{ tag }}</h2>
