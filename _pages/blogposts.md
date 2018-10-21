@@ -21,7 +21,7 @@ Below is the list of blog posts I've written, separated by categories.
 -->
 
 {% for category in site.categories %}
-  <li><a name="{{ category | first }}">{{ category | first }}</a>
+  <h2 name="{{ category | first }}">{{ category | first }}</h2>
     <ul>
     {% for posts in category %}
       {% for post in posts %}
@@ -29,5 +29,4 @@ Below is the list of blog posts I've written, separated by categories.
       {% endfor %}
     {% endfor %}
     </ul>
-  </li>
 {% endfor %}
