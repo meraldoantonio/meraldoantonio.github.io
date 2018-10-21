@@ -3,9 +3,9 @@ title: "Blog posts"
 permalink: /blogposts/
 layout: categories
 header:
-  overlay image: "images/singapore_banner.jpg"
+  overlay_image: "images/singapore_banner.jpg"
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "test"
   actions:
   - label: "More Info"
     url: "https://unsplash.com"
@@ -23,6 +23,7 @@ header:
 
 -->
 
+<!---
 Below is the list of blog posts I've written, separated by categories.
 {% for category in site.categories %}
   <h2 name="{{ category | first }}">{{ category | first }}</h2>
@@ -32,3 +33,4 @@ Below is the list of blog posts I've written, separated by categories.
       {% endfor %}
     {% endfor %}
 {% endfor %}
+--->
