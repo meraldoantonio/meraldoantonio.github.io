@@ -4,7 +4,7 @@ main:
     url: /about/
   - title: "Blog posts"
     url: /blogposts/
-  - title: "Tests"
+  - title: "Test"
     url: /test/
 
   # - title: "Sample Collections"
