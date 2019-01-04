@@ -1,7 +1,7 @@
 ---
 title: "Test"
 permalink: /test/
-layout: single
+layout: index
 excerpt: "Who am I?"
 header:
   overlay_image: "images/singapore_banner.jpg"

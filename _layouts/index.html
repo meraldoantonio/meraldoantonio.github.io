@@ -1,0 +1,81 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <title>How the world has changed</title>
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css">
+    <!-- jQuery UI CSS -->
+    <link rel="stylesheet" href="css/jquery-ui.min.css">
+    <link rel="stylesheet" href="css/jquery-ui.structure.min.css">
+    <link rel="stylesheet" href="css/jquery-ui.theme.min.css">
+    <!-- D3 Tooltip CSS -->
+    <link rel="stylesheet" href="css/d3-tip.css">
+    <!-- Custom styling -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <nav class="navbar navbar-default">
+        <div class="container">
+        </div>
+    </nav>
+
+    <!-- Vis 1 -->
+    <div class="container">
+        <div class="row">
+            <div class="col-md-offset-3 col-md-5">
+                <button id="play-button" class="btn btn-primary">
+                    <span id="play-button-span" class="glyphicon glyphicon-play"></span>
+                </button>
+                <button id="reset-button" class="btn btn-primary">
+                    <span class="glyphicon glyphicon-repeat"></span>
+                </button>
+                <div id="slider-div">
+                    <label>Year: <span id="year">1800</span></label>
+                    <div id="date-slider"></div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <select id="continent-select" class="form-control">
+                    <option selected value="all">ALL</option>
+                    <option value="europe">EUROPE</option>
+                    <option value="asia">ASIA</option>
+                    <option value="americas">AMERICAS</option>
+                    <option value="africa">AFRICA</option>
+                </select>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div id="chart-area"></div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <!-- Text -->
+    <div class="container">
+        <div class="row justify-content-md-center">
+            <div class="col-md-6 col-md-offset-3" >
+                <p id="explanation">Lorem Ipsum
+                Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+                There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..." in elit euismod, ullamcorper sem id, hendrerit turpis. Etiam nec justo mattis, ultrices sem quis, rutrum nulla. Vivamus feugiat ipsum sit amet nisl dictum tincidunt. Nulla non molestie nisl, sit amet volutpat odio. Nullam dui orci, pharetra et tortor id, dignissim pulvinar lacus. Donec venenatis, nunc ac auctor egestas, velit orci faucibus felis, vel egestas quam neque non turpis. Phasellus quam velit, semper consequat accumsan at, dictum quis elit. Duis efficitur libero vel porttitor placerat. Cras et diam laoreet, condimentum libero a, lacinia ipsum. Maecenas maximus est nisi.Nulla venenatis hendrerit hendrerit. Sed ac massa ullamcorper, euismod metus porttitor, bibendum felis. Curabitur eget nunc quis lectus lacinia bibendum. Mauris volutpat erat id neque suscipit, vitae cursus nisi congue. Duis dui nunc, consequat id augue vel, pellentesque molestie ante. Praesent interdum, enim a commodo fermentum, nulla quam dictum lectus, quis lobortis sem augue ut turpis. Vestibulum tortor augue, elementum in tellus sit amet, cursus cursus quam. Phasellus lorem metus, mollis at tempor ut, maximus at nulla. Ut accumsan tellus nec fringilla ullamcorper. Vestibulum dignissim a orci at viverra. Vestibulum in pellentesque risus, et accumsan est. In molestie ex sed sem congue eleifend. Donec eu lorem et nibh porta aliquet. Sed enim felis, bibendum lobortis placerat vitae, elementum dapibus leo. Sed nunc arcu, posuere at augue id, auctor sagittis elit. Aenean non varius ante.
+                </p>
+            </div>
+        </div>
+    </div>
+
+<!-- External JS libraries -->
+<script src="js/jquery.min.js"></script>
+<script src="js/jquery-ui.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/d3.min.js"></script>
+<script src="js/d3-tip.js"></script>
+<!-- Custom JS -->
+<script src="js/main.js"></script>
+
+</body>
+</html>
