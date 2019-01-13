@@ -4,7 +4,7 @@ permalink: /blogposts/
 layout: tags
 excerpt: "Collection of the posts I've written"
 header:
-  overlay_image: "images/singapore_banner2.jpg"
+  overlay_image: "images/Singapore_banner2.jpg"
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Taken in 2017"
 
