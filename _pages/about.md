@@ -7,7 +7,6 @@ header:
   overlay_image: "images/singapore_banner.jpg"
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Taken in 2017"
-  actions: {{ site.url }}/pdf/Resume.pdf
 ---
 
 Hello! Thank you for visiting my personal website. My name is Meraldo. I'm a budding data scientist based in Singapore.
