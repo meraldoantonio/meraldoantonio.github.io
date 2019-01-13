@@ -2,14 +2,12 @@
 title: "Blog posts"
 permalink: /blogposts/
 layout: tags
-excerpt: "Who am I?"
+excerpt: "Collection of the posts I've written"
 header:
-  overlay_image: "images/singapore_banner.jpg"
+  overlay_image: "images/singapore_banner2.jpg"
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Taken in 2017"
-  actions:
-  - label: "More Info"
-    url: "https://unsplash.com"
+
 ---
 {% include group-by-array collection=site.posts field="tags" %}
 <!---
