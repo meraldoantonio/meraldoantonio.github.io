@@ -20,4 +20,4 @@ I have diverse interests, which have led to a rather unusual career path. Since 
 
 Right now, I am trying to hone my skills in analytics with the hope of applying these skills to my current work. I am also an avid linguist and traveller. I am always fascinated by languages and the cultures they represent. I speak fluent Indonesian and English and have intermediate proficiencies in Chinese, French, Spanish, German, Malay and Portuguese. This website also documents my journey to master these languages.
 
-Feel free to download a [pdf copy of my résumé]({{ site.url }}/pdf/Resume.pdf), which contains further details about my background. You can contact me using the email on the sidebar.
+Feel free to download a [pdf copy of my résumé]({{ site.url }}/pdf/Resume2.pdf), which contains further details about my background. You can contact me using the email on the sidebar.
