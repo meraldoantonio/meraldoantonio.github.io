@@ -2,7 +2,7 @@
 title: "Tableau Dashboard on Indonesian Infrastructure Challenges"
 date: 2018-05-28
 category: thoughts
-tags: [tableau, current affairs, indonesia]
+tags: [tableau, current affairs, indonesia, data visualization]
 excerpt: "A Tableau dashboard that elaborates the increased emphasis on Indonesian infrastructure development under President Jokowi"
 
 ---
