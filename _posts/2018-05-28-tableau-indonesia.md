@@ -7,7 +7,7 @@ excerpt: "A Tableau dashboard that elaborates the increased emphasis on Indonesi
 
 ---
 
-Under President Jokowi's administration, Indonesia has made large strides in improving its crumbling infrastructure. I made the Tableau dashboard below to explore Jokowi's infrastructure push. The dashboard is also published on [Datarama's media website](https://datarama.com/index.php/media/).
+Under President Jokowi's administration, Indonesia has made large strides in improving its crumbling infrastructure. I made the Tableau dashboard below to explore the background behind Jokowi's infrastructure push and its implications. The dashboard is also published on [Datarama's media page](https://datarama.com/index.php/media/).
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/IndonesianInfrastructure/IndonesianInfrastucture?:embed=y&:display_count=yes&:origin=viz_share_link:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '1000' scrolling='no' ></iframe>   
 
