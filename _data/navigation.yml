@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Blog posts"
+  - title: "Blog/Medium posts"
     url: /blogposts/
 
   # - title: "Sample Collections"
