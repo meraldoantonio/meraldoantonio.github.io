@@ -1,16 +1,16 @@
 ---
 title: "Trouble in Paradise — Impact of the Paradise Papers in Indonesia"
-date: 2017-11-16
+date: 2017-11-06
 category: thoughts
 tags: [current affairs, indonesia]
 excerpt: "My thoughts on the impact on the recent publication of the Paradise Papers in the Indonesian politics"
 
 ---
 
-_The thought piece I wrote below was first published at [Datarama's media page](https://datarama.com/index.php/media/)._
+_The thought piece I wrote below was first published on [Datarama's media page](https://datarama.com/index.php/media/)._
 
 
-On 5 November 2017, the International Consortium of Investigative Journalists (ICIJ) released the so-called [Paradise Papers](https://www.icij.org/investigations/paradise-papers/) — a collection of 13.4 million documents related to offshore investment originating from Appleby, one of the world’s largest providers of offshore legal services. Like the release of Panama Papers by the ICIJ approximately one year earlier, the publication of Paradise Papers has been making waves all around the world. These documents shed light on how the rich and powerful around the world exploit offshore tax havens to hide their fortunes from the prying eyes of financial regulators and the general public. Considering the prominence of the individuals and companies that make up Appleby’s client list and the public significance of their actions, the Paradise Papers are likely to leave behind far-reaching repercussions worldwide.
+Yesterday —on 5 November 2017— the International Consortium of Investigative Journalists (ICIJ) released the so-called [Paradise Papers](https://www.icij.org/investigations/paradise-papers/) — a collection of 13.4 million documents related to offshore investment originating from Appleby, one of the world’s largest providers of offshore legal services. Like the release of Panama Papers by the ICIJ approximately one year earlier, the publication of Paradise Papers has been making waves all around the world. These documents shed light on how the rich and powerful around the world exploit offshore tax havens to hide their fortunes from the prying eyes of financial regulators and the general public. Considering the prominence of the individuals and companies that make up Appleby’s client list and the public significance of their actions, the Paradise Papers are likely to leave behind far-reaching repercussions worldwide.
 
 ## Repercussions in Indonesia
 
@@ -33,4 +33,4 @@ The opacity of offshore companies, coupled with the fact that they can be used l
 <i>Relationship map of Prabowo Subianto, built using Datarama's AI-powered mapping tool.</i>
 </p>
 
-Advanced data analytics and data visualisation are the bread-and-butter of our work at Datarama. Our team has successfully ingested the information from the Paradise Papers and uploaded it onto our platform. These troves of new information, coupled with the existing analyses we have on these individuals, form the basis of the insights presented in this article.
+Advanced data analytics and data visualisation are the bread-and-butter of our work at [Datarama](https://datarama.com/). Our team has successfully ingested the information from the Paradise Papers and uploaded it onto our platform. These troves of new information, coupled with the existing analyses we have on these individuals, form the basis of the insights presented in this article.
