@@ -8,4 +8,4 @@ excerpt: "A Tableau dashboard that elaborates the increased emphasis on Indonesi
 ---
 
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/IndonesianInfrastructure/IndonesianInfrastucture?:embed=y&:display_count=yes&:origin=viz_share_link:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450' scrolling='yes' ></iframe>   
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/IndonesianInfrastructure/IndonesianInfrastucture?:embed=y&:display_count=yes&:origin=viz_share_link:embed=yes&:display_count=yes&:showVizHome=no" width = '800' height = '900' scrolling='yes' ></iframe>   
