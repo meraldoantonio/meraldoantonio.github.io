@@ -16,11 +16,11 @@ Hello! Thank you for visiting my website. My name is Meraldo. I'm a budding data
 I'm currently working as an AI Apprentice at [AI Singapore](https://www.aisingapore.org/), where I'm building a chatbot that can respond to human questions and pinpoint a specific information within a document. Concurrently, I'm pursuing a [Master in Analytics](http://www.analytics.gatech.edu/) in Georgia Institute of Technology, where I learn the latest technologies in machine learning.
 
 ## Which technical tools do I know?
--**Machine Learning**: I use "standard" machine learning tools on daily basis. These tools include *pandas*, *scikit-learn*, *numpy* and *XGBoost*.
--**Deep Learning**: In the past year, I have been using *PyTorch* for my main NLP project @ AI Singapore and now consider myself a proficient PyTorch user. I have also learned *Tensorflow/Keras* before although I have not used them in a major project.
--**NLP**: NLP is my passion! I have used and deployed state-of-the-art NLP models such as *BiDAF*,*ELMo* and *BERT*.
--**Data Visualization**: I regularly use standard Python visualization libraries such as *matplotlib* and *seaborn*, although my personal favorite is *plotly* and *dash*. I also enjoy building [*Tableau* vizes.](https://public.tableau.com/profile/meraldo.antonio#!/)
--**Big Data**: I am currently taking a course on Big Data, in which I am learning about *Spark* and *Hadoop.* I am working towards getting Hortonworks/Databricks certifications of these technologies in October 2019.
+- **Machine Learning**: I use "standard" machine learning tools on daily basis. These tools include *pandas*, *scikit-learn*, *numpy* and *XGBoost*.
+- **Deep Learning**: In the past year, I have been using *PyTorch* for my main NLP project @ AI Singapore and now consider myself a proficient PyTorch user. I have also learned *Tensorflow/Keras* before although I have not used them in a major project.
+- **NLP**: NLP is my passion! I have used and deployed state-of-the-art NLP models such as *BiDAF*,*ELMo* and *BERT*.
+- **Data Visualization**: I regularly use standard Python visualization libraries such as *matplotlib* and *seaborn*, although my personal favorite is *plotly* and *dash*. I also enjoy building [*Tableau* vizes.](https://public.tableau.com/profile/meraldo.antonio#!/)
+- **Big Data**: I am currently taking a course on Big Data, in which I am learning about *Spark* and *Hadoop.* I am working towards getting Hortonworks/Databricks certifications of these technologies in October 2019.
 
 ## What did I do before?
 Prior to AI Singapore, I worked as a Senior Analyst at [Datarama](https://datarama.com), a start-up that uses AI to streamline due diligence processes. In Datarama, I led the Southeast Asia due diligence team and contributed to the development of Datarama's AI-powered due diligence platform.
