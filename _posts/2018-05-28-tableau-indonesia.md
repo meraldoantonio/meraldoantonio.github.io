@@ -3,7 +3,7 @@ title: "Tableau Dashboard on Indonesian Infrastructure Challenges"
 date: 2018-05-28
 category: personal
 tags: [tableau, indonesia]
-excerpt: "A Tableau dashboard that elaborates the increased emphasis on Indonesian infrastructure development under Jokowi"
+excerpt: "A Tableau dashboard that elaborates the increased emphasis on Indonesian infrastructure development under President Jokowi"
 
 ---
 
