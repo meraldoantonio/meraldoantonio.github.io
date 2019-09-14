@@ -27,10 +27,10 @@ I'm currently working as an AI Apprentice at [AI Singapore](https://www.aisingap
 Prior to AI Singapore, I worked as a Senior Analyst at [Datarama](https://datarama.com), a start-up that uses AI to streamline due diligence processes. In Datarama, I led the Southeast Asia due diligence team and contributed to the development of Datarama's AI-powered due diligence platform.
 
 ## Related websites
-This website serves as a repository of projects I've undertaken, quick tutorials I wrote to reinforce my learning and my reflection on being a data scientist. You can find a complete list of entries <a href = "https://meraldoantonio.github.io/blogposts/">here</a>. Codes for the project are available on my [GitHub page](https://github.com/meraldoantonio).
+- This website serves as a repository of projects I've undertaken, quick tutorials I wrote to reinforce my learning and my reflection on being a data scientist. You can find a complete list of entries <a href = "https://meraldoantonio.github.io/blogposts/">here</a>.
+- Codes for the project are available on my **[GitHub page]**(https://github.com/meraldoantonio).
 
-I also write regularly on [Medium](https://medium.com/@meraldo.antonio). I recently published a series of articles about BiDAF, an influential NLP model. [These articles](https://towardsdatascience.com/modeling-and-output-layers-in-bidaf-an-illustrated-guide-with-minions-f2e101a10d83) were featured in Towards Data Science.
-
-I have also created and published some interactive dashboards using Tableau. Do check out my page [@Tableau Public](https://public.tableau.com/profile/meraldo.antonio#!/) to find out more.
+- I also write regularly on **[Medium]**(https://medium.com/@meraldo.antonio). I recently published a series of articles about BiDAF, an influential NLP model. [These articles](https://towardsdatascience.com/modeling-and-output-layers-in-bidaf-an-illustrated-guide-with-minions-f2e101a10d83) were featured in Towards Data Science.
+- I have also created and published some interactive dashboards using **Tableau**. Do check out my page [@Tableau Public](https://public.tableau.com/profile/meraldo.antonio#!/) to find out more.
 
 Lastly, feel free to download a [pdf copy of my résumé]({{ site.url }}/pdf/Resume2.pdf), which contains further details about my background. You can contact me using the email on the sidebar; I am always open to discussions!
