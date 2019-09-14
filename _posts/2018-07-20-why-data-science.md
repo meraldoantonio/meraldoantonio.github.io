@@ -2,7 +2,7 @@
 title: "Why data science?"
 date: 2018-07-20
 category: personal
-tags: [education, personal]
+tags: [education]
 excerpt: "The motivation behind my decision to pivot my career to data science"
 
 ---

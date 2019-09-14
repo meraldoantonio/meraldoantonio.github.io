@@ -2,7 +2,7 @@
 title: "Trouble in Paradise — Impact of the Paradise Papers in Indonesia"
 date: 2017-11-06
 category: thoughts
-tags: [current affairs, indonesia]
+tags: [current affairs]
 excerpt: "My thoughts on the impact on the recent publication of the Paradise Papers in the Indonesian politics"
 
 ---

@@ -2,7 +2,7 @@
 title: "US-China Trade War Visualized Using Tableau"
 date: 2018-07-23
 category: thoughts
-tags: [tableau, current affairs, data visualization]
+tags: [current affairs, data visualization]
 excerpt: "Using Tableau, I explained the background and the consequences of the trade war between the US and China"
 
 ---
