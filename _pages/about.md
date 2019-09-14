@@ -15,17 +15,12 @@ header:
 I'm currently working as an AI Apprentice at [AI Singapore](https://www.aisingapore.org/), where I'm building a chatbot that can respond to human questions and pinpoint a specific information within a document. I'll be graduating from the apprenticeship in December 2019. Concurrently, I'm pursuing a [Master in Analytics](http://www.analytics.gatech.edu/) in Georgia Institute of Technology. I am halfway through the master program and am currently taking two courses: *Modeling and Simulation* and *Big Data for Healthcare*.
 
 ## Which technical tools do I know?
-- **Machine Learning**: I use "standard" machine learning tools on daily basis. These tools include *pandas*, *scikit-learn*, *numpy* and *XGBoost*.
-- **Deep Learning**: In the past year, I have been using *PyTorch* for my main NLP project at AI Singapore and now consider myself a proficient PyTorch user. I have also learned *Tensorflow/Keras* before although I have not used them in a major project.
-- **NLP**: NLP is my passion! I have used and deployed state-of-the-art NLP models such as *BiDAF*, *ELMo* and *BERT*.
-- **Data Visualization**: I regularly use standard Python visualization libraries such as *matplotlib* and *seaborn*, although my personal favorite is *plotly* and *dash*. I have also built several dashboards using [*Tableau*](https://public.tableau.com/profile/meraldo.antonio#!/) and *Google Sheet.*
-- **Big Data**: I am currently taking a course on Big Data, in which I am learning about *Spark* and *Hadoop*. I am working towards getting Hortonworks/Databricks certifications of these technologies in October 2019.
+- **Machine Learning**: I use "standard" machine learning tools on daily basis. These tools include *pandas*, *scikit-learn*, *numpy* and *XGBoost*. In addition, in the past year, I have been using *PyTorch* for my main NLP project at AI Singapore. I have used and deployed *PyTorch*-implementation of state-of-the-art NLP models such as *BiDAF*, *ELMo* and *BERT*.  I have also learned *Tensorflow/Keras* before.
+- **Data Visualization**: I regularly use standard Python visualization libraries such as *matplotlib* and *seaborn*, although my personal favorite is *plotly* and *dash*. I made the interactive visualization below using *plotly*. I have also built several dashboards using [*Tableau*](https://public.tableau.com/profile/meraldo.antonio#!/) and *Google Sheet.*
+- **Big Data**: I am currently taking a course on Big Data, in which I am learning about *Spark* (both PySpark and Scala) and *Hadoop ecosystem*. I am working towards getting Hortonworks/Databricks certifications of these technologies in October 2019.
 
 <p style="text-align: center;">
-<iframe seamless frameborder="0" src="{{ site.url }}/graphs/expertise.html" width = '1000' height = '850' scrolling='no' ></iframe>   
-</p>
-<p style="text-align: center;">
-<i>My skillsets</i>
+<iframe seamless frameborder="0" src="{{ site.url }}/graphs/expertise.html" width = '1000' height = '500' scrolling='no' ></iframe>   
 </p>
 
 ## What did I do before?
