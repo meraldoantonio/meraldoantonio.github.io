@@ -29,7 +29,7 @@ Prior to AI Singapore, I worked as a Senior Analyst at [Datarama](https://datara
 ## Related websites
 - **Blog**. This website serves as a repository of projects I've undertaken, quick tutorials I wrote to reinforce my learning and my reflection on being a data scientist. You can find a complete list of entries <a href = "https://meraldoantonio.github.io/blogposts/">here</a>.
 - **GitHub page**. The codes for some of my projects are available on my [GitHub page](https://github.com/meraldoantonio).
-- **Medium**. I write regularly on [Medium](https://medium.com/@meraldo.antonio), especially on <i>Towards Data Science (TDS)<i>, an AI-centered publication. I recently published a series of [articles](https://towardsdatascience.com/modeling-and-output-layers-in-bidaf-an-illustrated-guide-with-minions-f2e101a10d83) about BiDAF, an influential NLP model.
+- **Medium**. I write regularly on [Medium](https://medium.com/@meraldo.antonio), especially on *Towards Data Science (TDS)*, an AI-centered publication. I recently published a series of [articles](https://towardsdatascience.com/modeling-and-output-layers-in-bidaf-an-illustrated-guide-with-minions-f2e101a10d83) about BiDAF, an influential NLP model.
 - **Tableau Public**. I have also created some interactive dashboards using **Tableau** which I published on my [Tableau Public](https://public.tableau.com/profile/meraldo.antonio#!/) page.
 
 Lastly, feel free to download a [pdf copy of my résumé]({{ site.url }}/pdf/Resume2.pdf), which contains further details about my background. You can contact me using the email on the sidebar; I am always open to discussions!
