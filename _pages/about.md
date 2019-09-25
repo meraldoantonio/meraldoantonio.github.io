@@ -9,7 +9,7 @@ header:
 
 ---
 ## Who am I?
- *Salut!* My name is Meraldo. I'm a data scientist based in Singapore. I am passionate about NLP, deep learning, Big Data and current affairs. I am also an avid linguist and traveler. I speak fluent Indonesian and English and have intermediate proficiency in  Spanish, French, Mandarin Chinese, German, Malay and Portuguese. Feel free to shoot me a message in any of those languages!
+ *Salut!* My name is Meraldo. I'm a data scientist based in Singapore. I am passionate about NLP, deep learning, Big Data and current affairs. I am also an avid linguist and traveler. I speak fluent Indonesian and English and have intermediate-to-high proficiency in  Spanish, French, Mandarin Chinese, German and Malay. Feel free to shoot me a message in any of those languages!
 
 ## What do I do?
 I'm currently working as an AI Apprentice at [AI Singapore](https://www.aisingapore.org/), where I'm building a chatbot that can respond to human questions and pinpoint a specific information within a document. I'll be graduating from the apprenticeship in December 2019. Concurrently, I'm pursuing a [Master in Analytics](http://www.analytics.gatech.edu/) in Georgia Institute of Technology. I am halfway through the master program and am currently taking two courses: *Modeling and Simulation* and *Big Data for Healthcare*.
